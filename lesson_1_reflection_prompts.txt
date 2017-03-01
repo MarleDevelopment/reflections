@@ -1,0 +1,48 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It only showed the lines that were differing between the files,
+	so that it was easier to find the differences.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If changes on a file don't work properly, whereas the old version worked fine,
+	you don't have to remember the old version (maybe a long time later),
+	or even recreate it on your own.
+	Instead you can simply go back and restore it.
+	You can ask the person who made some adjustments, regarding changes that you
+	potentially don't understand, made by other people.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros:	Commits not too often, not in files, that at the specific point of time
+			probably not even runs or compiles.
+	Cons:	Potential oblivion of commits, so that there already have been created
+			more than one logical change and the commit might be too big.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Some files may be related to each other or don't work without each other,
+	so that it makes a lot more sense to save them together.
+	In Google Docs it probably would be a lot more lavish to connect files to
+	each other in a repository, as Google Doc's primary goal is not versioning
+	but rather cloud sharing.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log lists all commits together with a little description of what has changed.
+	Git diff shows the changes between two specific commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because you always have the possibility to return to a previous version.
+	This means that it your changes aren't ultimate.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here

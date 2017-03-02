@@ -18,7 +18,8 @@ organized? How would branches help?
 	Branches help to track two different versions and their different progress i.e. code change
 	seperately. So changes of one branch don't affect the others when introducing new features,...
 	and they are still working.
-	Branches could help tracking BackUps from time to time.
+	Branches could help tracking BackUps from time to time, as a BackUp-Branch.
+	In addition to that it makes sense to introduce new features on a Development-Branch.
 
 How do the diagrams help you visualize the branch structure?
 

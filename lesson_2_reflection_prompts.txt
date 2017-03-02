@@ -10,9 +10,18 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	If several files have changed you can use the staging area to commit files seperately,
+	so that the files will be commited one after another.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	Branches help to track two different versions and their different progress i.e. code change
+	seperately. So changes of one branch don't affect the others when introducing new features,...
+	and they are still working.
+	Branches could help tracking BackUps from time to time, as a BackUp-Branch.
+	In addition to that it makes sense to introduce new features of the active work
+	on a Development-Branch or a Experimental-Branch which are expected to break.
+	The master branch could be always working and never break. (Productive quality work)
 
 How do the diagrams help you visualize the branch structure?
 

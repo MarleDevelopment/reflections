@@ -19,7 +19,9 @@ organized? How would branches help?
 	seperately. So changes of one branch don't affect the others when introducing new features,...
 	and they are still working.
 	Branches could help tracking BackUps from time to time, as a BackUp-Branch.
-	In addition to that it makes sense to introduce new features on a Development-Branch.
+	In addition to that it makes sense to introduce new features of the active work
+	on a Development-Branch or a Experimental-Branch which are expected to break.
+	The master branch could be always working and never break. (Productive quality work)
 
 How do the diagrams help you visualize the branch structure?
 

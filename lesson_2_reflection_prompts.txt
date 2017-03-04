@@ -24,6 +24,7 @@ organized? How would branches help?
 	The master branch could be always working and never break. (Productive quality work)
 
 How do the diagrams help you visualize the branch structure?
+	It's easier to understand the references from one commit to another, i.e. the commits corresponding parent.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?

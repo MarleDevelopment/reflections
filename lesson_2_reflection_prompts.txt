@@ -28,6 +28,8 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	The file created by merging two files contains the changes made in the two separate files independently.
+	The diagram shows visually the history of the two files and their parental relations.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?

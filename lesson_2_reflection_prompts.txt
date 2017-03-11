@@ -33,3 +33,6 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+	Git at least tries to find the ideal merge of two version.
+	When there are difficulties, so that it is unclear which version is the best Git asks you
+	to interact manually and decide which one is best.

@@ -1,11 +1,12 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
     When collaborating with others or working on different computers on the same
-    file it is useful to upload the repository    
+    file it is useful to upload the repository.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-	Manual pushes leave control to the user when and what to publish.
+	Manual pushes leave control to the user when and what update from
+	GitHub.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
